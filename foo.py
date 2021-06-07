@@ -1,1 +1,4 @@
 "hello"
+
+def foo():
+    return
